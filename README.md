@@ -26,7 +26,7 @@
 ## 🌐 Portfolio & Articles
 
 - 👨‍💻 Portfolio: [https://talhabangyal.github.io/](https://talhabangyal.github.io/)
-- 📝 Articles & Blogs: [https://www.talhabangyal.com](https://www.talhabangyal.com)
+- 📝 Articles & Blogs: [https://www.dameosai.com](https://dameosai.com/)
 
 ---
 
