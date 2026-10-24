@@ -1845,3 +1845,42 @@ section,
 .github-stat-chip strong {
   color: #0f172a;
 }
+
+/*--------------------------------------------------------------
+# Resume Download Button
+--------------------------------------------------------------*/
+.resume .resume-download-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.resume .btn-download-resume {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: var(--accent-color, #0563bb);
+  color: #ffffff;
+  padding: 10px 26px;
+  border-radius: 50px;
+  font-family: var(--heading-font);
+  font-weight: 600;
+  font-size: 14.5px;
+  letter-spacing: 0.3px;
+  text-decoration: none;
+  box-shadow: 0 4px 15px rgba(5, 99, 187, 0.25);
+  transition: all 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.resume .btn-download-resume:hover {
+  background-color: #044e94;
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(5, 99, 187, 0.35);
+}
+
+.resume .btn-download-resume i {
+  font-size: 18px;
+  line-height: 1;
+}
